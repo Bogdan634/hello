@@ -1,0 +1,91 @@
+body {
+  background:rebeccapurple
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+  
+  .menu {
+    border: 1px solid #000;
+    width: 700px;
+    margin: 100px auto;
+  }
+  .menu-item {
+    font-weight: 300;
+    color: coral;
+    text-transform: uppercase;
+    margin: 20px 40px;
+    display: inline-block;
+  }
+
+  .container{
+    border: 1px solid rgb(153, 16, 16);
+    width: 900px;
+    margin: 50px auto;
+    /* Це головна позиція. Надає змогу рухами будь що за допомогою (top left right botton*/
+    position:relative;
+   
+}  
+
+.menu-item2 {
+  font-weight: 500;
+  color: rgb(34, 159, 218);
+  text-transform: uppercase;
+  margin: 0 50px;
+  display: inline-block;
+}
+
+.menu-item3 {
+  font-weight: 500;
+    color: rgb(34, 159, 218);
+    text-transform: uppercase;
+    margin: 0 20px;
+    display: inline-block;
+}
+.menu2 {
+  width: 200px;
+  margin: 100px auto;
+}
+
+.menu17{
+  width: 0;
+  margin: 0 70px;
+}
+img{
+width: 500px;
+height: 300px;
+}
+.dot1{
+  width: 200px;
+  margin: 0 40px;
+}
+
+.dot2 {
+  font-weight: 100;
+  color: rgb(36, 214, 45);
+  text-transform: uppercase;
+  margin: 40px 0;
+  display: inline-block;
+}
+
+
+
+.men89{
+  font-weight: 500;
+  color: rgb(36, 214, 45);
+  text-transform: uppercase;
+  margin: 40px 70px;
+  display: inline-block;
+}
+
+.menu-item90 {
+  font-weight: 300;
+  color: rgb(201, 245, 5);
+  text-transform: uppercase;
+  margin: 20px 40px;
+  display: inline-block;
+}
